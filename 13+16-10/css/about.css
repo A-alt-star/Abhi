@@ -1,0 +1,7 @@
+
+.aboutdata{
+    padding: 20px; text-align: justify;
+    background: url('../image/banner3.jpeg');
+    background-attachment: fixed;
+    font-size: 20px; color: rgb(199, 191, 191);
+}

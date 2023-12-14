@@ -1,0 +1,15 @@
+
+.crow::after{content: ""; clear: both; display: table;}
+.cleft{float: left; padding: 40px;}
+.cright{float: right; padding: 50px;}
+.head{padding: 7px; margin: 20px 0px ; line-height: 27px;}
+.branch{padding: 7px; margin-top: 20px 0px; line-height: 27px;}
+
+.cright [type="text"],[type="email"]{
+    height: 30px; width: 70%; margin: 5px 15%;
+}
+.cright textarea{height: 100px; width: 70%; margin: 5px 15%;}
+.cright [type="submit"]{
+    padding: 8px; background: orange;
+    margin-left: 15%; margin-top: 15px;
+}
